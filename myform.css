@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+body{
+    /* background-color: #eee; */
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.container{
+    width: 450px;
+    height: 70%;
+    margin: 50px auto;
+    background-color: #fff;
+    border: 2px solid #e6e6e6;
+    padding: 30px 50px;
+}
+#header{
+    font-family: Billabong;
+    font-size: 60px;
+}
+#up{
+    font-family: Billabong;
+    font-size: 22px;
+}
+
+.sig-bg{
+    position: relative;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.3)),url("../public/Screenshot\ \(3\).png");
+    background-position: center;
+    background-size: cover;
+
+}
