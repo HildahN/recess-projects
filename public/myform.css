@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+.container{
+    width: 450px;
+    height: 70%;
+    margin: 50px auto;
+    background-color: #ffffff;
+    border: 2px solid #e6e6e6;
+    padding: 30px 50px;
+}
+#header{
+    font-family: Billabong;
+    font-size: 60px;
+}
+#yes{
+    font-family: Billabong;
+    font-size: 150px;
+    font-weight: bold;
+}
+#header:hover{
+    transform: skew(-10deg);
+  }
+#up{
+    font-family: Billabong;
+    font-size: 22px;
+}
+
+body{
+    font-family: Arial narrow;
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    background-color: #eee;
+}
+.error{
+    color:red;
+}
